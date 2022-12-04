@@ -1,1 +1,6 @@
 .DS_Store
+clean-files/*
+unzipped/*
+.ipynb_checkpoints/*
+*.db
+*.zip
