@@ -3,9 +3,6 @@
 
 ## Wedge Project - Fall 2022 
 
-![image](https://user-images.githubusercontent.com/112667258/205732006-8613c46a-b1c2-47d5-9fba-7ed89edf563d.png)
-
-
 The Wedge Community Co-Op is a natural foods grocery store located in Minneapolis, Minnesota and the largest co-operative grocery store in the US.  During the course of the semester, our cohort had the opportunity to work with Wedge customer transaction data as a means to improve our analytical skillset and develop better business acumen.  This project is a culmination of those skills, where we break down what we have learned into various tasks. 
 
 -In Task One, we uploaded transaction records to GBQ from Python (I worked with clean files).  
@@ -14,15 +11,12 @@ The Wedge Community Co-Op is a natural foods grocery store located in Minneapoli
 
 -Finally, for Task Three, we put those analytical skills to the test by building a SQLite database via Python which will contain three tables further diving into transactional data by examining sales by date by hour, sales by owner by year by month, and sales by product description by year by month. 
 
-<!-- Any general commentary you'd like to say about the project --> 
 
 
 ### Task 1: Upload the Files 
 
-* Files for this task: 
-<!--  List of file or files here  --> 
+Created a path to source the cleaned files (re: clean_files) and assigned to object 'clean_wedge_files,' then uploaded all the data into GBQ data set appropriately named 'wedge.' 
 
-Loads all data into GBQ data set.
 
 `File1 Name`: 
 Description of what this file does.
