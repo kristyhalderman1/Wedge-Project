@@ -8,50 +8,35 @@
 
 The Wedge Community Co-Op is a natural foods grocery store located in Minneapolis, Minnesota and the largest co-operative grocery store in the US.  During the course of the semester, our cohort had the opportunity to work with Wedge customer transaction data as a means to improve our analytical skillset and develop better business acumen.  This project is a culmination of those skills, where we break down what we have learned into various tasks. 
 
-- In Task One, we uploaded transaction records to GBQ from Python (I worked with clean files).  
+ 
 
-- In Task Two, we separate owners from non-owners (everyone is welcome at the Wedge!) and take a sample from a list of those owners since this will make it easier to analyze.  
-
-- Finally, for Task Three, we put those analytical skills to the test by building a SQLite database via Python which will contain three tables further diving into transactional data by examining sales by date by hour, sales by owner by year by month, and sales by product description by year by month. 
-
-
-
+ 
 ### Task 1: Upload the Files 
 
-Created a path to source the cleaned files (re: clean_files) and assigned to object 'clean_wedge_files,' then uploaded all the data into GBQ data set appropriately named 'wedge.' 
 
+`File1 Name`: Wedge 1-Final .ipynb
 
-`File1 Name`: 
-Description of what this file does.
-
-<!--  Repeat for each file  --> 
+In Task One, we uploaded transaction records to GBQ from Python (I worked with clean files).  First, I created a path to source the cleaned files (re: clean_files) and assigned to object 'clean_wedge_files,' then uploaded all the data into GBQ data set appropriately named 'wedge.' 
 
 
 
 ### Task 2: Sample of Owners 
 
 * Files for this task: 
-<!--  List of file or files here  --> 
+- In Task Two, we separate owners from non-owners (everyone is welcome at the Wedge!) and take a sample from a list of those owners since this will make it easier to analyze. 
 
-Loads all data into GBQ data set.
 
-`File1 Name`: 
-Description of what this file does.
 
-<!--  Repeat for each file  --> 
+`File2 Name`: Wedge-Part 2-Final.ipynb
+
 	
 
 ### Task 3: Building Summary Tables 
 
-* Files for this task: 
-<!--  List of file or files here  --> 
+`File3 Name`: Wedge-Part 3-Final.ipynb
 
-Loads all data into GBQ data set.
+Finally, for Task Three, we put those analytical skills to the test by building a SQLite database via Python which will contain three tables further diving into transactional data by examining sales by date by hour, sales by owner by year by month, and sales by product description by year by month.
 
-`File1 Name`: 
-Description of what this file does.
-
-<!--  Repeat for each file  --> 
 
 
 ## Query Comparison Results
@@ -92,4 +77,4 @@ When calculating relative difference, use the formula
 
 ## Reflections
 
-<!-- I'd love to get 100-200 words on your experience doing the Wedge Project --> 
+Overall, I thought this was a good way to 'sum up' what we did this semester and add to our portfolios!  If I were to do it again, I would look at the assignment day one and break down when I would learn each section and attempt it then instead of waiting until the final weeks of class to remember everything we did.  
