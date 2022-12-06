@@ -9,7 +9,6 @@
 The Wedge Community Co-Op is a natural foods grocery store located in Minneapolis, Minnesota and the largest co-operative grocery store in the US.  During the course of the semester, our cohort had the opportunity to work with Wedge customer transaction data as a means to improve our analytical skillset and develop better business acumen.  This project is a culmination of those skills, where we break down what we have learned into various tasks. 
 
  
-
  
 ### Task 1: Upload the Files 
 
@@ -22,12 +21,12 @@ In Task One, we uploaded transaction records to GBQ from Python (I worked with c
 
 ### Task 2: Sample of Owners 
 
-* Files for this task: 
-- In Task Two, we separate owners from non-owners (everyone is welcome at the Wedge!) and take a sample from a list of those owners since this will make it easier to analyze. 
-
-
-
 `File2 Name`: Wedge-Part 2-Final.ipynb
+In Task Two, we separate owners from non-owners (everyone is welcome at the Wedge!) and take a sample from a list of those owners since this will make it easier to analyze. 
+
+
+
+
 
 	
 
