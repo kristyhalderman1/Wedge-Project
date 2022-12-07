@@ -64,12 +64,12 @@ When calculating relative difference, use the formula
 | Null_CN Card Number  |   |   |   |   |
 | Num 5 on High Volume Cards  |   |   | Yes/No  | NA  |
 |  Num Rows for Number 5 |   |   |   |   |
-| Num Rows for 18736  |   |   |   |   |
-| Product with Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Product with Fourth-Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Num Single Record Products  |   |   |   |   |
+| Num Rows for 18736  | 12153  | 12153  |  0 |  NA  |
+| Product with Most Rows  | Banana Organic  | Banana Organic   | Yes  | NA  |
+| Num Rows for that Product  | 614797  |  613142 |   |   |
+| Product with Fourth-Most Rows  | Wedge Cookie  | Wedge Cookie  | Yes | NA  |
+| Num Rows for that Product  | 405871  | 405060  |   |   |
+| Num Single Record Products  | 2781  | 2795 |   |   |
 | Year with Highest Portion of Owner Rows  |   |   | Yes/No  | NA |
 | Fraction of Rows from Owners in that Year  |   |   |   |   |
 | Year with Lowest Portion of Owner Rows  |   |   | Yes/No  | NA |
