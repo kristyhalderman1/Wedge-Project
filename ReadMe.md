@@ -3,7 +3,7 @@
 
 ## Wedge Project - Fall 2022 
 
-![image](https://user-images.githubusercontent.com/112667258/205748782-db5fc70c-2c92-4b1a-af1b-604385459db7.png)
+   ![image](https://user-images.githubusercontent.com/112667258/205748782-db5fc70c-2c92-4b1a-af1b-604385459db7.png)
 
 
 The Wedge Community Co-Op is a natural foods grocery store located in Minneapolis, Minnesota and the largest co-operative grocery store in the US.  During the course of the semester, our cohort had the opportunity to work with Wedge customer transaction data as a means to improve our analytical skillset and develop better business acumen.  This project is a culmination of those skills, where we break down what we have learned into various tasks. 
@@ -51,17 +51,17 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  |   |   |   |   |
-| January 2012 Rows  |   |   |   |   |
-| October 2012 Rows  |   |   |   |   |
-| Month with Fewest  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Fewest  |   |   |   |   |
-| Month with Most  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Most  |   |   |   |   |
-| Null_TS  |   |   |   |   |
-| Null_DT  |   |   |   |   |
+| Total Rows  | 85923127  |  85760139 | 162,988  |   |
+| January 2012 Rows  | 1070907  | 1070907  | 0  |  NA |
+| October 2012 Rows  | 1042287  | 1100647  | 58360  |   |
+| Month with Fewest  | August  | November   | No  | NA  |
+| Num Rows in Month with Fewest  |  1025340 | 1025340  | 0  | NA  |
+| Month with Most  | April  | April  | Yes  | NA  |
+| Num Rows in Month with Most  |  1135000 |  1135000 | 0  | NA  |
+| Null_TS: Trans Status |   |   |   |   |
+| Null_DT: Datetime |   |   |   |   |
 | Null_Local  |   |   |   |   |
-| Null_CN  |   |   |   |   |
+| Null_CN Card Number  |   |   |   |   |
 | Num 5 on High Volume Cards  |   |   | Yes/No  | NA  |
 |  Num Rows for Number 5 |   |   |   |   |
 | Num Rows for 18736  |   |   |   |   |
