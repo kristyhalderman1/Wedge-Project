@@ -51,9 +51,9 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  | 85923127  |  85760139 | 162,988  |   |
+| Total Rows  | 85923127  |  85760139 | 162,988  |  .002 |
 | January 2012 Rows  | 1070907  | 1070907  | 0  |  NA |
-| October 2012 Rows  | 1042287  | 1100647  | 58360  |   |
+| October 2012 Rows  | 1042287  | 1100647  | 58360  | .52  |
 | Month with Fewest  | August  | November   | No  | NA  |
 | Num Rows in Month with Fewest  |  1025340 | 1025340  | 0  | NA  |
 | Month with Most  | April  | April  | Yes  | NA  |
@@ -66,14 +66,14 @@ When calculating relative difference, use the formula
 |  Num Rows for Number 5 |   |   |   |   |
 | Num Rows for 18736  | 12153  | 12153  |  0 |  NA  |
 | Product with Most Rows  | Banana Organic  | Banana Organic   | Yes  | NA  |
-| Num Rows for that Product  | 614797  |  613142 |   |   |
+| Num Rows for that Product  | 614797  |  613142 | 1655  | .0027  |
 | Product with Fourth-Most Rows  | Wedge Cookie  | Wedge Cookie  | Yes | NA  |
-| Num Rows for that Product  | 405871  | 405060  |   |   |
-| Num Single Record Products  | 2781  | 2795 |   |   |
-| Year with Highest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
-| Year with Lowest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
+| Num Rows for that Product  | 405871  | 405060  |  811 | .002  |
+| Num Single Record Products  | 2781  | 2795 | 14  |  .005 |
+| Year with Highest Portion of Owner Rows  | 2012 | 2012  | Yes  | NA |
+| Fraction of Rows from Owners in that Year  | .7451  | .7418  | .0033  | .004  |
+| Year with Lowest Portion of Owner Rows  | 2017  | 2017  | Yes  | NA |
+| Fraction of Rows from Owners in that Year  | .7513 |  .7513 | 0  | NA |
 
 ## Reflections
 
