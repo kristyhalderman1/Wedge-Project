@@ -58,12 +58,12 @@ When calculating relative difference, use the formula
 | Num Rows in Month with Fewest  |  1025340 | 1025340  | 0  | NA  |
 | Month with Most  | April  | April  | Yes  | NA  |
 | Num Rows in Month with Most  |  1135000 |  1135000 | 0  | NA  |
-| Null_TS: Trans Status |   |   |   |   |
-| Null_DT: Datetime |   |   |   |   |
-| Null_Local  |   |   |   |   |
-| Null_CN Card Number  |   |   |   |   |
-| Num 5 on High Volume Cards  |   |   | Yes/No  | NA  |
-|  Num Rows for Number 5 |   |   |   |   |
+| Null_TS: Trans Status | 7123792  |  7123792 | 0  | NA  |
+| Null_DT: Datetime | 0  | 0  |  0 |  NA |
+| Null_Local  | 235951  |  234843 | 1108  | .005  |
+| Null_CN Card Number  | 0  |  0 |  0 | NA  |
+| Num 5 on High Volume Cards  | 14987  | 14987  | Yes | NA  |
+|  Num Rows for Number 5 | 460630  | 460630   | 0  | NA  |
 | Num Rows for 18736  | 12153  | 12153  |  0 |  NA  |
 | Product with Most Rows  | Banana Organic  | Banana Organic   | Yes  | NA  |
 | Num Rows for that Product  | 614797  |  613142 | 1655  | .0027  |
